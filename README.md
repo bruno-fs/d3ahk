@@ -10,6 +10,7 @@ my ahk script used to autocast skills on d3
 `Alt + DOWN`: decrease spam interval
 
 You must choose which keys will be spammed
+
 `Ctrl + Q`: spam Q
 
 `Ctrl + W`: spam W
